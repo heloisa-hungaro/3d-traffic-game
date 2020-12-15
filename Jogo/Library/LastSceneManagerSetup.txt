@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Tacal\xED/Scenes/ProfessorMenu.unity"
+  isLoaded: 1
+  isActive: 1
